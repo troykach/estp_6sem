@@ -1,0 +1,29 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Form1.resources
+D:\готовые лабы\Snake\Snake\bin\Debug\Snake.exe.config
+D:\готовые лабы\Snake\Snake\bin\Debug\Snake.exe
+D:\готовые лабы\Snake\Snake\bin\Debug\Snake.pdb
+D:\готовые лабы\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\готовые лабы\Snake\Snake\obj\Debug\Snake.Form1.resources
+D:\готовые лабы\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\готовые лабы\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\готовые лабы\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\готовые лабы\Snake\Snake\obj\Debug\Snake.exe
+D:\готовые лабы\Snake\Snake\obj\Debug\Snake.pdb
+d:\эстп\sem6\Snake\bin\Debug\Snake.exe.config
+d:\эстп\sem6\Snake\bin\Debug\Snake.exe
+d:\эстп\sem6\Snake\bin\Debug\Snake.pdb
+d:\эстп\sem6\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+d:\эстп\sem6\Snake\obj\Debug\Snake.Form1.resources
+d:\эстп\sem6\Snake\obj\Debug\Snake.Properties.Resources.resources
+d:\эстп\sem6\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+d:\эстп\sem6\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+d:\эстп\sem6\Snake\obj\Debug\Snake.exe
+d:\эстп\sem6\Snake\obj\Debug\Snake.pdb
